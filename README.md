@@ -1,4 +1,4 @@
-import datetime
+import datetim
 import random
 
 def generate_daily_report():
